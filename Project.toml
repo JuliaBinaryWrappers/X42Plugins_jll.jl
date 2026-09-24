@@ -1,0 +1,17 @@
+name = "X42Plugins_jll"
+uuid = "e4ef0e30-8fd3-52a3-9a4c-b77be1284e2a"
+version = "2025.6.6+0"
+
+[deps]
+lv2_jll = "7b3f7994-2f4c-56ea-8c5f-7c434df6080d"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.10"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"

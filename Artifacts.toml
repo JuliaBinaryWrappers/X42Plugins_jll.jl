@@ -1,0 +1,160 @@
+[[X42Plugins]]
+arch = "aarch64"
+git-tree-sha1 = "651675c133e504a3c4317f41528a5b91b83a58fc"
+os = "macos"
+
+    [[X42Plugins.download]]
+    sha256 = "8d00c7db26354800ac5eeac6824d4fcab65483ce761b79beab0ad84c633ee25d"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.aarch64-apple-darwin.tar.gz"
+[[X42Plugins]]
+arch = "aarch64"
+git-tree-sha1 = "2fb956d09863dafdddff5e3f6560f9c4038dd8c0"
+libc = "glibc"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "11ebca3320f6a92ca87aa0cbd8dc0437c9f8acaae164bda5ab67517ba6a0bcca"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.aarch64-linux-gnu.tar.gz"
+[[X42Plugins]]
+arch = "aarch64"
+git-tree-sha1 = "0dd505f631976cbc0e5d70eccf9feff754045f57"
+libc = "musl"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "71ff0d3048e23d2947db5eae9239c7c568a3446908a947224e325a9fc0f1c4cc"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.aarch64-linux-musl.tar.gz"
+[[X42Plugins]]
+arch = "aarch64"
+git-tree-sha1 = "0d5d6f526ea1429358ab766cbf4c449038fee026"
+os = "freebsd"
+
+    [[X42Plugins.download]]
+    sha256 = "6d3110f07eb0e8a3b2c9b743785d0a1d7647e8a79efdc970599393f07ca01bb5"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.aarch64-unknown-freebsd.tar.gz"
+[[X42Plugins]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5d1af61bbb67ca368ed47f3ce5f8dee5d36728c7"
+libc = "glibc"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "bc57c9906cbf1e167be2ad8396b1de45e836cf5142c6bb43f2d78245d908c293"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.armv6l-linux-gnueabihf.tar.gz"
+[[X42Plugins]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0186bb23dfd366640112a64560b79ec5244dce4c"
+libc = "musl"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "4bee28c735bd90faeacc605e1bae1e0c99fe70f41bdabe177ec3257d4fa1b0c2"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.armv6l-linux-musleabihf.tar.gz"
+[[X42Plugins]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8799c50abd1023bd4a4242707cf70bd061fd07dd"
+libc = "glibc"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "a1a3beded82132a5818abaa0bcbb92132ab9236fdce39f54434f115669d93c08"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.armv7l-linux-gnueabihf.tar.gz"
+[[X42Plugins]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0a1ad89a618dadb3734252fe27e1ef1a7a83e6d5"
+libc = "musl"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "d46787e408de070354d545224ff0e8a0ce286078af5087ce71ea38e814829fb1"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.armv7l-linux-musleabihf.tar.gz"
+[[X42Plugins]]
+arch = "i686"
+git-tree-sha1 = "45b9550284cc58e4bc208da266055207133bd23d"
+libc = "glibc"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "b89c095498fab36e5d0d4fc86a6eb2a547ad48608bbb12569fcb4f4f33589a7f"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.i686-linux-gnu.tar.gz"
+[[X42Plugins]]
+arch = "i686"
+git-tree-sha1 = "dc2ceca59aa196ec53df8fc8cba09d2c3f6c4346"
+libc = "musl"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "87a512ccad00f072175f8e151d4aae0edfa92af4967ae42bdb008396b05cba37"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.i686-linux-musl.tar.gz"
+[[X42Plugins]]
+arch = "i686"
+git-tree-sha1 = "9ee3508cb288c9bb6658efa9edf0205cdfd4b7c6"
+os = "windows"
+
+    [[X42Plugins.download]]
+    sha256 = "1f6a1da047572d7c26de1a31435898860fb7c880051cd239a582d8a3028e1eb5"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.i686-w64-mingw32.tar.gz"
+[[X42Plugins]]
+arch = "powerpc64le"
+git-tree-sha1 = "d6c7b96b6eb72e592f3b201ad680190a0375f4f1"
+libc = "glibc"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "b06729e668160c842b247ee8cb21ccf6aa825d12b42e9cbc055ddc6432188be5"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.powerpc64le-linux-gnu.tar.gz"
+[[X42Plugins]]
+arch = "riscv64"
+git-tree-sha1 = "4e0bd254e4ee29b3a99c43db2476c231bfb39bb9"
+libc = "glibc"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "baf7361944cc3baed114d02d035e0255847fbf8272994f4c6db4b6935577de5b"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.riscv64-linux-gnu.tar.gz"
+[[X42Plugins]]
+arch = "x86_64"
+git-tree-sha1 = "2c81cfffdc5a2cf72a6b3f125f7bfb4827522b8d"
+os = "macos"
+
+    [[X42Plugins.download]]
+    sha256 = "07a8cb791fdf33a394002eb3d5bc73889be6ef23a8177313d6fe150b7dae324d"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.x86_64-apple-darwin.tar.gz"
+[[X42Plugins]]
+arch = "x86_64"
+git-tree-sha1 = "aa2608623df678086a5171f3a5fc682d5a26a86a"
+libc = "glibc"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "6d9f1fa49c6c105bc46bc8e04b386c6515712bc06b01efe3f3b1f32401e75a15"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.x86_64-linux-gnu.tar.gz"
+[[X42Plugins]]
+arch = "x86_64"
+git-tree-sha1 = "4192d1f78a5e274e8b3545c976bc14db1c9571d9"
+libc = "musl"
+os = "linux"
+
+    [[X42Plugins.download]]
+    sha256 = "4482259912aec386f396454d5861dc4296564e19618d770796aac73f50e43a1f"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.x86_64-linux-musl.tar.gz"
+[[X42Plugins]]
+arch = "x86_64"
+git-tree-sha1 = "d72f5fc45db9a76f54f73c132286aef9ccf205b2"
+os = "freebsd"
+
+    [[X42Plugins.download]]
+    sha256 = "b102a61c485c66152e7a8dd30902d44dbda97b603c883493caade2a80fd72bbf"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.x86_64-unknown-freebsd.tar.gz"
+[[X42Plugins]]
+arch = "x86_64"
+git-tree-sha1 = "c0843296c61b32e29fa511f2d9f9fc3e145e4094"
+os = "windows"
+
+    [[X42Plugins.download]]
+    sha256 = "602622f1c0b32f198afadb7f4c3ab3dee34471db973745ad73a6407782338fd8"
+    url = "https://github.com/JuliaBinaryWrappers/X42Plugins_jll.jl/releases/download/X42Plugins-v2025.6.6+0/X42Plugins.v2025.6.6.x86_64-w64-mingw32.tar.gz"
